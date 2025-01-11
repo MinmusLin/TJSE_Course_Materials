@@ -34,3 +34,6 @@
 [submodule "2024春_大数据与人工智能_课程作业"]
 	path = 2024春_大数据与人工智能_课程作业
 	url = https://github.com/MinmusLin/Big_Data_and_Artificial_Intelligence_Course_Assignments
+[submodule "2024春_算法设计与分析_课程作业"]
+	path = 2024春_算法设计与分析_课程作业
+	url = https://github.com/MinmusLin/Analysis_and_Design_of_Algorithms_Course_Assignments
