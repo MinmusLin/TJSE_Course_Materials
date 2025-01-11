@@ -70,3 +70,6 @@
 [submodule "2023秋_程序设计范式_课程作业"]
 	path = 2023秋_程序设计范式_课程作业
 	url = https://github.com/MinmusLin/Programming_Paradigms_Course_Assignments
+[submodule "2023秋_计算机组成原理实验_实验报告"]
+	path = 2023秋_计算机组成原理实验_实验报告
+	url = https://github.com/MinmusLin/Computer_Organization_Experiment_Reports
