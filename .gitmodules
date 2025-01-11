@@ -22,3 +22,6 @@
 [submodule "2024春_数据库课程设计_课程项目"]
 	path = 2024春_数据库课程设计_课程项目
 	url = https://github.com/MinmusLin/PetJoy
+[submodule "2024春_操作系统课程设计_课程项目"]
+	path = 2024春_操作系统课程设计_课程项目
+	url = https://github.com/MinmusLin/Minmus_Operating_System_in_Rust
