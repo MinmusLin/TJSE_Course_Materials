@@ -4,3 +4,6 @@
 [submodule "2024秋_软件工程_课程作业"]
 	path = 2024秋_软件工程_课程作业
 	url = https://github.com/MinmusLin/Software_Engineering_Course_Assignments
+[submodule "2024秋_计算机视觉_课程作业"]
+	path = 2024秋_计算机视觉_课程作业
+	url = https://github.com/MinmusLin/Computer_Vision_Course_Assignments
