@@ -73,3 +73,6 @@
 [submodule "2023秋_计算机组成原理实验_实验报告"]
 	path = 2023秋_计算机组成原理实验_实验报告
 	url = https://github.com/MinmusLin/Computer_Organization_Experiment_Reports
+[submodule "2024秋_区块链导论_课程作业"]
+	path = 2024秋_区块链导论_课程作业
+	url = https://github.com/MinmusLin/Introduction_to_Blockchain
