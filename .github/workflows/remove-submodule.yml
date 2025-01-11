@@ -1,0 +1,24 @@
+name: Remove Submodule
+
+on:
+  workflow_dispatch:
+    inputs:
+      submodule_path:
+        description: 'Path to store the submodule in the current repository'
+        required: true
+
+jobs:
+  remove-submodule:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Remove submodule
+        run: |
+          git submodule deinit -f "${{ github.event.inputs.submodule_path }}"
+          git rm -f "${{ github.event.inputs.submodule_path }}"
+          rm -rf ".git/modules/${{ github.event.inputs.submodule_path }}"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -am "Remove submodule ${{ github.event.inputs.submodule_path }}"
+          git push
