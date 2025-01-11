@@ -88,3 +88,6 @@
 [submodule "2024秋_物联网应用基础_课程项目"]
 	path = 2024秋_物联网应用基础_课程项目
 	url = https://github.com/MinmusLin/Regional_THP_Data_Publishing_Subscription_and_Analysis_System
+[submodule "2024秋_计算机视觉_课程项目"]
+	path = 2024秋_计算机视觉_课程项目
+	url = https://github.com/MinmusLin/Speedbump_Detection_and_Distance_Measurement
