@@ -64,3 +64,6 @@
 [submodule "2023秋_离散数学_课程作业"]
 	path = 2023秋_离散数学_课程作业
 	url = https://github.com/MinmusLin/Discrete_Mathematics_Course_Assignments
+[submodule "2023秋_数据结构课程设计_课程项目"]
+	path = 2023秋_数据结构课程设计_课程项目
+	url = https://github.com/MinmusLin/Data_Structures_Course_Projects
