@@ -82,3 +82,6 @@
 [submodule "2024秋_区块链导论_课程项目"]
 	path = 2024秋_区块链导论_课程项目
 	url = https://github.com/MinmusLin/Miel_Link
+[submodule "2024秋_语音识别_课程项目"]
+	path = 2024秋_语音识别_课程项目
+	url = https://github.com/MinmusLin/Meeting_Minutes_Assistant
