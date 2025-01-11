@@ -46,3 +46,6 @@
 [submodule "2024春_计算机系统结构_研究学习"]
 	path = 2024春_计算机系统结构_研究学习
 	url = https://github.com/MinmusLin/Computer_Architecture_Research_Study
+[submodule "2024春_用户交互技术_课程项目"]
+	path = 2024春_用户交互技术_课程项目
+	url = https://github.com/MinmusLin/Story_Lingo_Kids
