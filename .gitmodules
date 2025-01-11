@@ -61,3 +61,6 @@
 [submodule "2024春_人工智能导论_课程作业"]
 	path = 2024春_人工智能导论_课程作业
 	url = https://github.com/MinmusLin/Introduction_to_Artificial_Intelligence_Course_Assignments
+[submodule "2023秋_离散数学_课程作业"]
+	path = 2023秋_离散数学_课程作业
+	url = https://github.com/MinmusLin/Discrete_Mathematics_Course_Assignments
