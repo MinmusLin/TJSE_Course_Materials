@@ -85,3 +85,6 @@
 [submodule "2024秋_语音识别_课程项目"]
 	path = 2024秋_语音识别_课程项目
 	url = https://github.com/MinmusLin/Meeting_Minutes_Assistant
+[submodule "2024秋_物联网应用基础_课程项目"]
+	path = 2024秋_物联网应用基础_课程项目
+	url = https://github.com/MinmusLin/Regional_THP_Data_Publishing_Subscription_and_Analysis_System
