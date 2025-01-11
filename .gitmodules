@@ -76,3 +76,6 @@
 [submodule "2024秋_区块链导论_课程作业"]
 	path = 2024秋_区块链导论_课程作业
 	url = https://github.com/MinmusLin/Introduction_to_Blockchain
+[submodule "2024秋_软件设计模式_课程作业"]
+	path = 2024秋_软件设计模式_课程作业
+	url = https://github.com/MinmusLin/Software_Design_Patterns_Course_Assignments
