@@ -43,3 +43,6 @@
 [submodule "2024春_用户交互技术_课程作业"]
 	path = 2024春_用户交互技术_课程作业
 	url = https://github.com/MinmusLin/Human_Computer_Interface_Course_Assignments
+[submodule "2024春_计算机系统结构_研究学习"]
+	path = 2024春_计算机系统结构_研究学习
+	url = https://github.com/MinmusLin/Computer_Architecture_Research_Study
