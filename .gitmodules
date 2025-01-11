@@ -67,3 +67,6 @@
 [submodule "2023秋_数据结构课程设计_课程项目"]
 	path = 2023秋_数据结构课程设计_课程项目
 	url = https://github.com/MinmusLin/Data_Structures_Course_Projects
+[submodule "2023秋_程序设计范式_课程作业"]
+	path = 2023秋_程序设计范式_课程作业
+	url = https://github.com/MinmusLin/Programming_Paradigms_Course_Assignments
