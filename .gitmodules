@@ -37,3 +37,6 @@
 [submodule "2024春_算法设计与分析_课程作业"]
 	path = 2024春_算法设计与分析_课程作业
 	url = https://github.com/MinmusLin/Analysis_and_Design_of_Algorithms_Course_Assignments
+[submodule "2023秋_数据量化推理_课程项目"]
+	path = 2023秋_数据量化推理_课程项目
+	url = https://github.com/MinmusLin/Quantitative_Reasoning_Course_Project
