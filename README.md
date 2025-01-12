@@ -9,7 +9,7 @@
 
 ## ✨ 仓库简介 | Introduction
 
-A collection of course materials for Software Engineering in Schoold of Computer Science and Technology at Tongji University.
+A collection of course materials for Software Engineering in School of Computer Science and Technology at Tongji University.
 
 同济大学计算机科学与技术学院软件工程专业课程材料合集。
 
@@ -17,7 +17,7 @@ A collection of course materials for Software Engineering in Schoold of Computer
 
 | 课程 Course | 链接 URL |
 | :--- | :---: |
-| 2022秋 大学物理实验(上) 2023春 大学物理实验(下) 实验报告 | [URL](https://github.com/MinmusLin/University_Physics_Experiment_Reports) |
+| 2022秋/2023春 大学物理实验 实验报告 | [URL](https://github.com/MinmusLin/University_Physics_Experiment_Reports) |
 | 2023春 高级语言程序设计 2023秋 面向对象程序设计 课程项目 | [URL](https://github.com/MinmusLin/Advanced_Language_Programming_and_OOP_Course_Projects) |
 | 2023秋 数据结构课程设计 课程项目 | [URL](https://github.com/MinmusLin/Data_Structures_Course_Projects) |
 | 2023秋 数据量化推理 课程项目 | [URL](https://github.com/MinmusLin/Quantitative_Reasoning_Course_Project) |
@@ -53,4 +53,4 @@ A collection of course materials for Software Engineering in Schoold of Computer
 
 ## 🧑‍💻 更新日期 | Update Date
 
-2025-01-11
+2025-01-12
