@@ -10,14 +10,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           submodules: 'recursive'
       - name: Update submodules
         run: |
-          export LANG=en_US.UTF-8
-          export LC_ALL=en_US.UTF-8
-          git config --global core.quotepath false
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git submodule update --remote
