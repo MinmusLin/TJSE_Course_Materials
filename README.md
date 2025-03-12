@@ -47,10 +47,8 @@ A collection of course materials for Software Engineering in School of Computer 
 | 2024秋 语音识别 课程作业 | [URL](https://github.com/MinmusLin/Speech_Recognition_Course_Assignments) |
 | 2024秋 语音识别 课程项目 | [URL](https://github.com/MinmusLin/Meeting_Minutes_Assistant) |
 | 2024秋 软件工程 课程作业 | [URL](https://github.com/MinmusLin/Software_Engineering_Course_Assignments) |
-| 2024秋 软件工程课程设计 课程项目前端 | [URL](https://github.com/MinmusLin/ICW_OssManagement_Frontend) |
-| 2024秋 软件工程课程设计 课程项目后端 | [URL](https://github.com/MinmusLin/ICW_OssManagement_Backend) |
 | 2024秋 软件设计模式 课程作业 | [URL](https://github.com/MinmusLin/Software_Design_Patterns_Course_Assignments) |
 
 ## 🧑‍💻 更新日期 | Update Date
 
-2025-01-12
+2025-03-12
