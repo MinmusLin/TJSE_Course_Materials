@@ -88,9 +88,6 @@
 [submodule "2024秋_软件工程课程设计_课程项目后端"]
 	path = 2024秋_软件工程课程设计_课程项目后端
 	url = https://github.com/MinmusLin/ICW_OssManagement_Backend
-[submodule "2024秋_软件工程课程设计_课程项目前端"]
-	path = 2024秋_软件工程课程设计_课程项目前端
-	url = https://github.com/MinmusLin/ICW_OssManagement_Frontend
 [submodule "2022秋_2023春_大学物理实验_实验报告"]
 	path = 2022秋_2023春_大学物理实验_实验报告
 	url = https://github.com/MinmusLin/University_Physics_Experiment_Reports
