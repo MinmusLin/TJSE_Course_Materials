@@ -15,46 +15,39 @@ A collection of course materials for Software Engineering in School of Computer 
 
 ## 🗃️ 仓库组成 | Composition
 
-| 课号 Code | 学期 Semester | 课程 Course | 内容 Content | 链接 URL |
-| :---: | :---: | :---: | :---: | :---: |
-| 50002810002<br>50002810003 | 2022 Fall<br>2023 Spring | 大学物理实验 (上)<br>大学物理实验 (下) | 实验报告 | [URL](https://github.com/MinmusLin/University_Physics_Experiment_Reports) |
-| 50002440016<br>101080 | 2023 Spring<br>2023 Fall | 高级语言程序设计<br>面向对象程序设计 | 课程项目 | [URL](https://github.com/MinmusLin/Advanced_Language_Programming_and_OOP_Course_Projects) |
-| 420285 | 2023 Fall | 数据结构课程设计 | 课程项目 | [URL](https://github.com/MinmusLin/Data_Structures_Course_Projects) |
-| 030566 | 2023 Fall | 数据量化推理 | 课程项目 | [URL](https://github.com/MinmusLin/Quantitative_Reasoning_Course_Project) |
-| 420019 | 2023 Fall | 离散数学 | 课程作业 | [URL](https://github.com/MinmusLin/Discrete_Mathematics_Course_Assignments) |
-| 50002870001 | 2023 Fall | 程序设计范式 | 课程作业 | [URL](https://github.com/MinmusLin/Programming_Paradigms_Course_Assignments) |
-| 50002870001 | 2023 Fall | 程序设计范式 | 课程项目 | [URL](https://github.com/MinmusLin/Teamfight_Tactics) |
-| 420143 | 2023 Fall | 计算机组成原理实验 | 实验报告 | [URL](https://github.com/MinmusLin/Computer_Organization_Experiment_Reports) |
-| 420412 | 2024 Spring | 人工智能导论 | 课程作业 | [URL](https://github.com/MinmusLin/Introduction_to_Artificial_Intelligence_Course_Assignments) |
-| 100721 | 2024 Spring | 大数据与人工智能 | 课程作业 | [URL](https://github.com/MinmusLin/Big_Data_and_Artificial_Intelligence_Course_Assignments) |
-| 420369 | 2024 Spring | 操作系统 | 课程作业 | [URL](https://github.com/MinmusLin/Operating_System_Course_Assignments) |
-| 420345 | 2024 Spring | 用户交互技术 | 课程作业 | [URL](https://github.com/MinmusLin/Human_Computer_Interface_Course_Assignments) |
-| 420345 | 2024 Spring | 用户交互技术 | 课程项目 | [URL](https://github.com/MinmusLin/Story_Lingo_Kids) |
-| 420341 | 2024 Spring | 算法设计与分析 | 课程作业 | [URL](https://github.com/MinmusLin/Analysis_and_Design_of_Algorithms_Course_Assignments) |
-| 420368 | 2024 Spring | 计算机系统结构 | 研究学习 | [URL](https://github.com/MinmusLin/Computer_Architecture_Research_Study) |
-| 420147 | 2024 Spring | 计算机网络实验 | 实验报告 | [URL](https://github.com/MinmusLin/Computer_Network_Experiment_Reports) |
-| 420287 | 2024 Summer | 操作系统课程设计 | 课程项目 | [URL](https://github.com/MinmusLin/Minmus_Operating_System_in_Rust) |
-| 420289 | 2024 Summer | 数据库课程设计 | 课程项目 | [URL](https://github.com/MinmusLin/PetJoy) |
-| 50002870005 | 2024 Fall | 区块链导论 | 课程作业 | [URL](https://github.com/MinmusLin/Introduction_to_Blockchain) |
-| 50002870005 | 2024 Fall | 区块链导论 | 课程项目 | [URL](https://github.com/MinmusLin/Miel_Link) |
-| 420156 | 2024 Fall | 嵌入式系统导论 | 课程作业 | [URL](https://github.com/MinmusLin/Introduction_to_Embedded_Systems_Course_Assignments) |
-| 420268 | 2024 Fall | 汇编语言 | 课程作业 | [URL](https://github.com/MinmusLin/Assembly_Language_Course_Assignments) |
-| 420375 | 2024 Fall | 物联网应用基础 | 课程作业 | [URL](https://github.com/MinmusLin/Fundamentals_of_IoT_Applications_Course_Assignments) |
-| 420375 | 2024 Fall | 物联网应用基础 | 课程项目 | [URL](https://github.com/MinmusLin/Regional_THP_Data_Publishing_Subscription_and_Analysis_System) |
-| 420401 | 2024 Fall | 移动应用开发 | 课程作业 | [URL](https://github.com/MinmusLin/Mobile_Application_Development_Course_Assignments) |
-| 420401 | 2024 Fall | 移动应用开发 | 课程项目 | [URL](https://github.com/MinmusLin/Atlas.Y_iOS_Application) |
-| 420294 | 2024 Fall | 计算机视觉 | 课程作业 | [URL](https://github.com/MinmusLin/Computer_Vision_Course_Assignments) |
-| 420294 | 2024 Fall | 计算机视觉 | 课程项目 | [URL](https://github.com/MinmusLin/Speedbump_Detection_and_Distance_Measurement) |
-| 420395 | 2024 Fall | 语音识别 | 课程作业 | [URL](https://github.com/MinmusLin/Speech_Recognition_Course_Assignments) |
-| 420395 | 2024 Fall | 语音识别 | 课程项目 | [URL](https://github.com/MinmusLin/Meeting_Minutes_Assistant) |
-| 420342 | 2024 Fall | 软件工程 | 课程作业 | [URL](https://github.com/MinmusLin/Software_Engineering_Course_Assignments) |
-| 420407 | 2024 Fall | 软件设计模式 | 课程作业 | [URL](https://github.com/MinmusLin/Software_Design_Patterns_Course_Assignments) |
-| 420358 | 2025 Spring | ***专业方向综合项目*** | 课程项目 | [URL](https://github.com/MinmusLin/Diagnosis_of_Diabetic_Retinopathy) |
-| 420415 | 2025 Spring | ***机器学习*** | 课程作业 | [URL](https://github.com/MinmusLin/Machine_Learning_Course_Assignments) |
-| 420398 | 2025 Spring | ***SLAM 理论与系统*** | 课程作业 | [URL](https://github.com/MinmusLin/SLAM_Theory_and_Systems_Course_Assignments) |
-| 420413 | 2025 Spring | ***软件工程管理与经济*** | 课程作业 | [URL](https://github.com/MinmusLin/Software_Engineering_Management_and_Economics_Course_Assignments) |
-| 420361 | 2025 Spring | ***软件测试*** | 课程作业 | [URL](https://github.com/MinmusLin/Software_Testing_Course_Assignments) |
-| 50002870004 | 2025 Spring | ***群体智能*** | 课程作业 | [URL](https://github.com/MinmusLin/Swarm_Intelligence_Course_Assignments) |
+| 课号 Code | 学期 Semester | 课程 Course | 内容 Content |
+| :---: | :---: | :---: | :---: |
+| 50002810002<br>50002810003 | 2022 Fall<br>2023 Spring | 大学物理实验 (上)<br>大学物理实验 (下) | [实验报告](https://github.com/MinmusLin/University_Physics_Experiment_Reports) |
+| 50002440016<br>101080 | 2023 Spring<br>2023 Fall | 高级语言程序设计<br>面向对象程序设计 | [课程项目](https://github.com/MinmusLin/Advanced_Language_Programming_and_OOP_Course_Projects) |
+| 420285 | 2023 Fall | 数据结构课程设计 | [课程项目](https://github.com/MinmusLin/Data_Structures_Course_Projects) |
+| 030566 | 2023 Fall | 数据量化推理 | [课程项目](https://github.com/MinmusLin/Quantitative_Reasoning_Course_Project) |
+| 420019 | 2023 Fall | 离散数学 | [课程作业](https://github.com/MinmusLin/Discrete_Mathematics_Course_Assignments) |
+| 50002870001 | 2023 Fall | 程序设计范式 | [课程作业](https://github.com/MinmusLin/Programming_Paradigms_Course_Assignments)、[课程项目](https://github.com/MinmusLin/Teamfight_Tactics) |
+| 420143 | 2023 Fall | 计算机组成原理实验 | [实验报告](https://github.com/MinmusLin/Computer_Organization_Experiment_Reports) |
+| 420412 | 2024 Spring | 人工智能导论 | [课程作业](https://github.com/MinmusLin/Introduction_to_Artificial_Intelligence_Course_Assignments) |
+| 100721 | 2024 Spring | 大数据与人工智能 | [课程作业](https://github.com/MinmusLin/Big_Data_and_Artificial_Intelligence_Course_Assignments) |
+| 420369 | 2024 Spring | 操作系统 | [课程作业](https://github.com/MinmusLin/Operating_System_Course_Assignments) |
+| 420345 | 2024 Spring | 用户交互技术 | [课程作业](https://github.com/MinmusLin/Human_Computer_Interface_Course_Assignments)、[课程项目](https://github.com/MinmusLin/Story_Lingo_Kids) |
+| 420341 | 2024 Spring | 算法设计与分析 | [课程作业](https://github.com/MinmusLin/Analysis_and_Design_of_Algorithms_Course_Assignments) |
+| 420368 | 2024 Spring | 计算机系统结构 | [研究学习](https://github.com/MinmusLin/Computer_Architecture_Research_Study) |
+| 420147 | 2024 Spring | 计算机网络实验 | [实验报告](https://github.com/MinmusLin/Computer_Network_Experiment_Reports) |
+| 420287 | 2024 Summer | 操作系统课程设计 | [课程项目](https://github.com/MinmusLin/Minmus_Operating_System_in_Rust) |
+| 420289 | 2024 Summer | 数据库课程设计 | [课程项目](https://github.com/MinmusLin/PetJoy) |
+| 50002870005 | 2024 Fall | 区块链导论 | [课程作业](https://github.com/MinmusLin/Introduction_to_Blockchain)、[课程项目](https://github.com/MinmusLin/Miel_Link) |
+| 420156 | 2024 Fall | 嵌入式系统导论 | [课程作业](https://github.com/MinmusLin/Introduction_to_Embedded_Systems_Course_Assignments) |
+| 420268 | 2024 Fall | 汇编语言 | [课程作业](https://github.com/MinmusLin/Assembly_Language_Course_Assignments) |
+| 420375 | 2024 Fall | 物联网应用基础 | [课程作业](https://github.com/MinmusLin/Fundamentals_of_IoT_Applications_Course_Assignments)、[课程项目](https://github.com/MinmusLin/Regional_THP_Data_Publishing_Subscription_and_Analysis_System) |
+| 420401 | 2024 Fall | 移动应用开发 | [课程作业](https://github.com/MinmusLin/Mobile_Application_Development_Course_Assignments)、[课程项目](https://github.com/MinmusLin/Atlas.Y_iOS_Application) |
+| 420294 | 2024 Fall | 计算机视觉 | [课程作业](https://github.com/MinmusLin/Computer_Vision_Course_Assignments)、[课程项目](https://github.com/MinmusLin/Speedbump_Detection_and_Distance_Measurement) |
+| 420395 | 2024 Fall | 语音识别 | [课程作业](https://github.com/MinmusLin/Speech_Recognition_Course_Assignments)、[课程项目](https://github.com/MinmusLin/Meeting_Minutes_Assistant) |
+| 420342 | 2024 Fall | 软件工程 | [课程作业](https://github.com/MinmusLin/Software_Engineering_Course_Assignments) |
+| 420407 | 2024 Fall | 软件设计模式 | [课程作业](https://github.com/MinmusLin/Software_Design_Patterns_Course_Assignments) |
+| 420358 | 2025 Spring | ***专业方向综合项目*** | [课程项目](https://github.com/MinmusLin/Diagnosis_of_Diabetic_Retinopathy) |
+| 420415 | 2025 Spring | ***机器学习*** | [课程作业](https://github.com/MinmusLin/Machine_Learning_Course_Assignments) |
+| 420398 | 2025 Spring | ***SLAM 理论与系统*** | [课程作业](https://github.com/MinmusLin/SLAM_Theory_and_Systems_Course_Assignments) |
+| 420413 | 2025 Spring | ***软件工程管理与经济*** | [课程作业](https://github.com/MinmusLin/Software_Engineering_Management_and_Economics_Course_Assignments) |
+| 420361 | 2025 Spring | ***软件测试*** | [课程作业](https://github.com/MinmusLin/Software_Testing_Course_Assignments) |
+| 50002870004 | 2025 Spring | ***群体智能*** | [课程作业](https://github.com/MinmusLin/Swarm_Intelligence_Course_Assignments) |
 
 ## 🧑‍💻 更新日期 | Update Date
 
