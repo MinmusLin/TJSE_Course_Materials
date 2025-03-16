@@ -42,6 +42,7 @@ A collection of course materials for Software Engineering in School of Computer 
 | 2024秋 物联网应用基础 课程作业 | [URL](https://github.com/MinmusLin/Fundamentals_of_IoT_Applications_Course_Assignments) |
 | 2024秋 物联网应用基础 课程项目 | [URL](https://github.com/MinmusLin/Regional_THP_Data_Publishing_Subscription_and_Analysis_System) |
 | 2024秋 移动应用开发 课程作业 | [URL](https://github.com/MinmusLin/Mobile_Application_Development_Course_Assignments) |
+| 2024秋 移动应用开发 课程项目 | [URL](https://github.com/MinmusLin/Atlas.Y_iOS_Application) |
 | 2024秋 计算机视觉 课程作业 | [URL](https://github.com/MinmusLin/Computer_Vision_Course_Assignments) |
 | 2024秋 计算机视觉 课程项目 | [URL](https://github.com/MinmusLin/Speedbump_Detection_and_Distance_Measurement) |
 | 2024秋 语音识别 课程作业 | [URL](https://github.com/MinmusLin/Speech_Recognition_Course_Assignments) |
