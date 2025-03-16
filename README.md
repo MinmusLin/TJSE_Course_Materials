@@ -48,7 +48,13 @@ A collection of course materials for Software Engineering in School of Computer 
 | 2024秋 语音识别 课程项目 | [URL](https://github.com/MinmusLin/Meeting_Minutes_Assistant) |
 | 2024秋 软件工程 课程作业 | [URL](https://github.com/MinmusLin/Software_Engineering_Course_Assignments) |
 | 2024秋 软件设计模式 课程作业 | [URL](https://github.com/MinmusLin/Software_Design_Patterns_Course_Assignments) |
+| 2025春 专业方向综合项目 课程项目 ***(Not yet archived)*** | [URL](https://github.com/MinmusLin/Diagnosis_of_Diabetic_Retinopathy) |
+| 2025春 机器学习 课程作业 ***(Not yet archived)*** | [URL](https://github.com/MinmusLin/Machine_Learning_Course_Assignments) |
+| 2025春 SLAM理论与系统 课程作业 ***(Not yet archived)*** | [URL](https://github.com/MinmusLin/SLAM_Theory_and_Systems_Course_Assignments) |
+| 2025春 软件工程管理与经济 课程作业 ***(Not yet archived)*** | [URL](https://github.com/MinmusLin/Software_Engineering_Management_and_Economics_Course_Assignments) |
+| 2025春 软件测试 课程作业 ***(Not yet archived)*** | [URL](https://github.com/MinmusLin/Software_Testing_Course_Assignments) |
+| 2025春 群体智能 课程作业 ***(Not yet archived)*** | [URL](https://github.com/MinmusLin/Swarm_Intelligence_Course_Assignments) |
 
 ## 🧑‍💻 更新日期 | Update Date
 
-2025-03-12
+2025-03-16
