@@ -88,3 +88,6 @@
 [submodule "2022秋_2023春_大学物理实验_实验报告"]
 	path = 2022秋_2023春_大学物理实验_实验报告
 	url = https://github.com/MinmusLin/University_Physics_Experiment_Reports
+[submodule "2024秋_软件设计模式_课程作业"]
+	path = 2024秋_软件设计模式_课程作业
+	url = https://github.com/MinmusLin/Software_Design_Patterns_Course_Assignments
