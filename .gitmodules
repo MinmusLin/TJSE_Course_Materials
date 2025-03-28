@@ -91,6 +91,3 @@
 [submodule "2023春_高级语言程序设计_2023秋_面向对象程序设计_课程项目"]
 	path = 2023春_高级语言程序设计_2023秋_面向对象程序设计_课程项目
 	url = https://github.com/MinmusLin/Advanced_Language_Programming_and_OOP_Course_Projects
-[submodule "2024秋_移动应用开发_课程项目"]
-	path = 2024秋_移动应用开发_课程项目
-	url = https://github.com/MinmusLin/Atlas.Y_iOS_Application
