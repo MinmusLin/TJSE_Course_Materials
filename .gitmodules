@@ -10,9 +10,6 @@
 [submodule "2024秋_嵌入式系统导论_课程作业"]
 	path = 2024秋_嵌入式系统导论_课程作业
 	url = https://github.com/MinmusLin/Introduction_to_Embedded_Systems_Course_Assignments
-[submodule "2024秋_移动应用开发_课程作业"]
-	path = 2024秋_移动应用开发_课程作业
-	url = https://github.com/MinmusLin/Mobile_Application_Development_Course_Assignments
 [submodule "2024秋_汇编语言_课程作业"]
 	path = 2024秋_汇编语言_课程作业
 	url = https://github.com/MinmusLin/Assembly_Language_Course_Assignments
