@@ -43,12 +43,12 @@ A collection of course materials for Software Engineering in School of Computer 
 | 420342 | 2024 Fall | 软件工程 | [课程作业](https://github.com/MinmusLin/Software_Engineering_Course_Assignments) |
 | 420146 | 2024 Fall | 软件工程课程设计 | [课程项目前端](https://github.com/Intelligent-Curtain-Wall/OssManagement_Frontend)、[课程项目后端](https://github.com/Intelligent-Curtain-Wall/OssManagement_Backend) |
 | 420407 | 2024 Fall | 软件设计模式 | [课程作业](https://github.com/MinmusLin/Software_Design_Patterns_Course_Assignments) |
-| 420358 | 2025 Spring | ***专业方向综合项目*** | [课程项目](https://github.com/MinmusLin/Diagnosis_of_Diabetic_Retinopathy) |
-| 420415 | 2025 Spring | ***机器学习*** | [课程作业](https://github.com/MinmusLin/Machine_Learning_Course_Assignments)、[吴恩达机器学习专项课程](https://github.com/MinmusLin/Machine_Learning_Specialization_Practice_Labs) |
-| 420398 | 2025 Spring | ***SLAM 理论与系统*** | [课程作业](https://github.com/MinmusLin/SLAM_Theory_and_Systems_Course_Assignments) |
-| 420413 | 2025 Spring | ***软件工程管理与经济*** | [课程作业](https://github.com/MinmusLin/Software_Engineering_Management_and_Economics_Course_Assignments) |
-| 420361 | 2025 Spring | ***软件测试*** | [课程作业](https://github.com/MinmusLin/Software_Testing_Course_Assignments) |
-| 50002870004 | 2025 Spring | ***群体智能*** | [课程作业](https://github.com/MinmusLin/Swarm_Intelligence_Course_Assignments) |
+| 420358 | 2025 Spring | 专业方向综合项目 | ***[课程项目](https://github.com/MinmusLin/Diagnosis_of_Diabetic_Retinopathy)*** |
+| 420415 | 2025 Spring | 机器学习 | ***[课程作业](https://github.com/MinmusLin/Machine_Learning_Course_Assignments)***、[吴恩达机器学习专项课程](https://github.com/MinmusLin/Machine_Learning_Specialization_Practice_Labs) |
+| 420398 | 2025 Spring | SLAM 理论与系统 | ***[课程作业](https://github.com/MinmusLin/SLAM_Theory_and_Systems_Course_Assignments)*** |
+| 420413 | 2025 Spring | 软件工程管理与经济 | ***[课程作业](https://github.com/MinmusLin/Software_Engineering_Management_and_Economics_Course_Assignments)*** |
+| 420361 | 2025 Spring | 软件测试 | ***[课程作业](https://github.com/MinmusLin/Software_Testing_Course_Assignments)*** |
+| 50002870004 | 2025 Spring | 群体智能 | ***[课程作业](https://github.com/MinmusLin/Swarm_Intelligence_Course_Assignments)*** |
 
 ## 📑 LaTeX 模板 | LaTeX Template
 
