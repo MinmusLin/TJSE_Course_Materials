@@ -48,7 +48,6 @@ A collection of course materials for Software Engineering in School of Computer 
 | 420398 | 2025 Spring | SLAM 理论与系统 | ***[课程作业](https://github.com/MinmusLin/SLAM_Theory_and_Systems_Course_Assignments)*** |
 | 420413 | 2025 Spring | 软件工程管理与经济 | ***[课程作业](https://github.com/MinmusLin/Software_Engineering_Management_and_Economics_Course_Assignments)*** |
 | 420361 | 2025 Spring | 软件测试 | ***[课程作业](https://github.com/MinmusLin/Software_Testing_Course_Assignments)*** |
-| 50002870004 | 2025 Spring | 群体智能 | ***[课程作业](https://github.com/MinmusLin/Swarm_Intelligence_Course_Assignments)*** |
 
 ## 📑 LaTeX 模板 | LaTeX Template
 
