@@ -27,12 +27,12 @@ A collection of course materials for Software Engineering in School of Computer 
 | 420412 | 2024 Spring | 人工智能导论 | [课程作业](https://github.com/MinmusLin/Introduction_to_Artificial_Intelligence_Course_Assignments) |
 | 100721 | 2024 Spring | 大数据与人工智能 | [课程作业](https://github.com/MinmusLin/Big_Data_and_Artificial_Intelligence_Course_Assignments) |
 | 420369 | 2024 Spring | 操作系统 | [课程作业](https://github.com/MinmusLin/Operating_System_Course_Assignments) |
+| 420287 | 2024 Spring | 操作系统课程设计 | [课程项目](https://github.com/MinmusLin/Minmus_Operating_System_in_Rust) |
+| 420289 | 2024 Spring | 数据库课程设计 | [课程项目](https://github.com/MinmusLin/PetJoy) |
 | 420345 | 2024 Spring | 用户交互技术 | [课程作业](https://github.com/MinmusLin/Human_Computer_Interface_Course_Assignments)、[课程项目](https://github.com/MinmusLin/Story_Lingo_Kids) |
 | 420341 | 2024 Spring | 算法设计与分析 | [课程作业](https://github.com/MinmusLin/Analysis_and_Design_of_Algorithms_Course_Assignments) |
 | 420368 | 2024 Spring | 计算机系统结构 | [研究学习](https://github.com/MinmusLin/Computer_Architecture_Research_Study) |
 | 420147 | 2024 Spring | 计算机网络实验 | [实验报告](https://github.com/MinmusLin/Computer_Network_Experiment_Reports) |
-| 420287 | 2024 Summer | 操作系统课程设计 | [课程项目](https://github.com/MinmusLin/Minmus_Operating_System_in_Rust) |
-| 420289 | 2024 Summer | 数据库课程设计 | [课程项目](https://github.com/MinmusLin/PetJoy) |
 | 50002870005 | 2024 Fall | 区块链导论 | [课程作业](https://github.com/MinmusLin/Introduction_to_Blockchain)、[课程项目](https://github.com/MinmusLin/Miel_Link) |
 | 420156 | 2024 Fall | 嵌入式系统导论 | [课程作业](https://github.com/MinmusLin/Introduction_to_Embedded_Systems_Course_Assignments) |
 | 420268 | 2024 Fall | 汇编语言 | [课程作业](https://github.com/MinmusLin/Assembly_Language_Course_Assignments) |
@@ -43,11 +43,12 @@ A collection of course materials for Software Engineering in School of Computer 
 | 420342 | 2024 Fall | 软件工程 | [课程作业](https://github.com/MinmusLin/Software_Engineering_Course_Assignments) |
 | 420146 | 2024 Fall | 软件工程课程设计 | [课程项目前端](https://github.com/Intelligent-Curtain-Wall/OssManagement_Frontend)、[课程项目后端](https://github.com/Intelligent-Curtain-Wall/OssManagement_Backend) |
 | 420407 | 2024 Fall | 软件设计模式 | [课程作业](https://github.com/MinmusLin/Software_Design_Patterns_Course_Assignments) |
-| 420358 | 2025 Spring | 专业方向综合项目 | ***[课程作业](https://github.com/MinmusLin/Diagnosis_of_Diabetic_Retinopathy)***、***[课程项目](https://github.com/MinmusLin/DiabRetina_AI)*** |
+| 420398 | 2025 Spring | SLAM理论与系统 | ***[课程作业](https://github.com/MinmusLin/SLAM_Theory_and_Systems_Course_Assignments)*** |
 | 420415 | 2025 Spring | 机器学习 | ***[课程作业](https://github.com/MinmusLin/Machine_Learning_Course_Assignments)***、[吴恩达机器学习专项课程](https://github.com/MinmusLin/Machine_Learning_Specialization_Practice_Labs) |
-| 420398 | 2025 Spring | SLAM 理论与系统 | ***[课程作业 (TODO)](https://github.com/MinmusLin/SLAM_Theory_and_Systems_Course_Assignments)*** |
+| 50002870004 | 2025 Spring | 群体智能 | ***[课程作业](https://github.com/MinmusLin/Swarm_Intelligence_Course_Assignments)*** |
+| 420361 | 2025 Spring | 软件测试 | ***[课程项目](https://github.com/MinmusLin/Tongji_ICW_Dataset_Management_Platform_Test_Application)*** |
 | 420413 | 2025 Spring | 软件工程管理与经济 | ***[课程作业](https://github.com/MinmusLin/Software_Engineering_Management_and_Economics_Course_Assignments)*** |
-| 50002870004 | 2025 Spring | 群体智能 | ***[课程作业 (TODO)](https://github.com/MinmusLin/Swarm_Intelligence_Course_Assignments)*** |
+| 420358 | 2025 Spring | 专业方向综合项目 | ***[课程作业](https://github.com/MinmusLin/Diagnosis_of_Diabetic_Retinopathy)***、***[课程项目](https://github.com/MinmusLin/DiabRetina_AI)*** |
 
 ## 📑 LaTeX 模板 | LaTeX Template
 
@@ -56,4 +57,4 @@ A collection of course materials for Software Engineering in School of Computer 
 
 ## 🧑‍💻 更新日期 | Update Date
 
-2025-06-01
+2025-06-09
