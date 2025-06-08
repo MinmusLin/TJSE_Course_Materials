@@ -46,7 +46,7 @@ A collection of course materials for Software Engineering in School of Computer 
 | 420398 | 2025 Spring | SLAM理论与系统 | ***[课程作业](https://github.com/MinmusLin/SLAM_Theory_and_Systems_Course_Assignments)*** |
 | 420415 | 2025 Spring | 机器学习 | ***[课程作业](https://github.com/MinmusLin/Machine_Learning_Course_Assignments)***、[吴恩达机器学习专项课程](https://github.com/MinmusLin/Machine_Learning_Specialization_Practice_Labs) |
 | 50002870004 | 2025 Spring | 群体智能 | ***[课程作业](https://github.com/MinmusLin/Swarm_Intelligence_Course_Assignments)*** |
-| 420361 | 2025 Spring | 软件测试 | ***[课程项目](https://github.com/MinmusLin/Tongji_ICW_Dataset_Management_Platform_Test_Application)*** |
+| 420361 | 2025 Spring | 软件测试 | [课程项目](https://github.com/MinmusLin/Tongji_ICW_Dataset_Management_Platform_Test_Application) |
 | 420413 | 2025 Spring | 软件工程管理与经济 | ***[课程作业](https://github.com/MinmusLin/Software_Engineering_Management_and_Economics_Course_Assignments)*** |
 | 420358 | 2025 Spring | 专业方向综合项目 | ***[课程作业](https://github.com/MinmusLin/Diagnosis_of_Diabetic_Retinopathy)***、***[课程项目](https://github.com/MinmusLin/DiabRetina_AI)*** |
 
