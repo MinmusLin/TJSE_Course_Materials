@@ -55,6 +55,10 @@ A collection of course materials for Software Engineering in School of Computer 
 * [同济大学本科毕业设计理工类论文模板](https://github.com/MinmusLin/Tongji_University_Undergraduate_Thesis_Template)
 * [同济大学演示文稿模板](https://github.com/MinmusLin/Tongji_University_Beamer_Template)
 
+## 📬 联系我 | Contact Me
+
+Email: minmuslin@outlook.com
+
 ## 🧑‍💻 更新日期 | Update Date
 
 2025-06-19
