@@ -109,9 +109,6 @@
 [submodule "2025春_软件测试_课程项目"]
 	path = 2025春_软件测试_课程项目
 	url = https://github.com/MinmusLin/Tongji_ICW_Dataset_Management_Platform_Test_Application
-[submodule "2025春_专业方向综合项目_课程作业"]
-	path = 2025春_专业方向综合项目_课程作业
-	url = https://github.com/MinmusLin/Diagnosis_of_Diabetic_Retinopathy
 [submodule "2025春_专业方向综合项目_课程项目前端"]
 	path = 2025春_专业方向综合项目_课程项目前端
 	url = https://github.com/MinmusLin/DiabRetina_AI_Frontend
