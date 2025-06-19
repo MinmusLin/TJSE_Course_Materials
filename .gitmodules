@@ -133,3 +133,6 @@
 [submodule "2025春_专业方向综合项目_课程作业"]
 	path = 2025春_专业方向综合项目_课程作业
 	url = https://github.com/MinmusLin/Diagnosis_of_Diabetic_Retinopathy
+[submodule "2025春_SLAM理论与系统_课程项目"]
+	path = 2025春_SLAM理论与系统_课程项目
+	url = https://github.com/MinmusLin/SLAM_Theory_and_Systems_Course_Project
