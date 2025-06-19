@@ -124,3 +124,6 @@
 [submodule "2025春_软件工程管理与经济_课程作业"]
 	path = 2025春_软件工程管理与经济_课程作业
 	url = https://github.com/MinmusLin/Software_Engineering_Management_and_Economics_Course_Assignments
+[submodule "2025春_机器学习_课程作业"]
+	path = 2025春_机器学习_课程作业
+	url = https://github.com/MinmusLin/Machine_Learning_Course_Assignments
