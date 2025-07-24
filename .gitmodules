@@ -19,9 +19,6 @@
 [submodule "2024春_操作系统_课程作业"]
 	path = 2024春_操作系统_课程作业
 	url = https://github.com/MinmusLin/Operating_System_Course_Assignments
-[submodule "2023秋_程序设计范式_课程项目"]
-	path = 2023秋_程序设计范式_课程项目
-	url = https://github.com/MinmusLin/Teamfight_Tactics
 [submodule "2024春_大数据与人工智能_课程作业"]
 	path = 2024春_大数据与人工智能_课程作业
 	url = https://github.com/MinmusLin/Big_Data_and_Artificial_Intelligence_Course_Assignments
