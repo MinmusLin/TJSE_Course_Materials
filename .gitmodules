@@ -133,3 +133,6 @@
 [submodule "2024秋_汇编语言_课程作业"]
 	path = 2024秋_汇编语言_课程作业
 	url = https://github.com/MinmusLin/Assembly_Language_Course_Assignments
+[submodule "2023秋_程序设计范式_课程项目"]
+	path = 2023秋_程序设计范式_课程项目
+	url = https://github.com/MinmusLin/Teamfight_Tactics
