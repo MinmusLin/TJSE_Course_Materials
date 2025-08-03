@@ -133,3 +133,6 @@
 [submodule "2024秋_软件工程课程设计_课程项目前端"]
 	path = 2024秋_软件工程课程设计_课程项目前端
 	url = https://github.com/Intelligent-Curtain-Wall/OssManagement_Frontend
+[submodule "2024秋_软件工程课程设计_课程项目后端"]
+	path = 2024秋_软件工程课程设计_课程项目后端
+	url = https://github.com/Intelligent-Curtain-Wall/OssManagement_Backend
