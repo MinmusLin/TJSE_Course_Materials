@@ -82,9 +82,6 @@
 [submodule "2024秋_移动应用开发_课程项目"]
 	path = 2024秋_移动应用开发_课程项目
 	url = https://github.com/Tongji-Software-2024/Atlas.Y_iOS_Application
-[submodule "2024秋_软件工程课程设计_课程项目后端"]
-	path = 2024秋_软件工程课程设计_课程项目后端
-	url = https://github.com/Intelligent-Curtain-Wall/OssManagement_Backend
 [submodule "2025春_机器学习_吴恩达机器学习专项课程"]
 	path = 2025春_机器学习_吴恩达机器学习专项课程
 	url = https://github.com/MinmusLin/Machine_Learning_Specialization_Practice_Labs
