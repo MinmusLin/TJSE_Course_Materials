@@ -85,9 +85,6 @@
 [submodule "2025春_机器学习_吴恩达机器学习专项课程"]
 	path = 2025春_机器学习_吴恩达机器学习专项课程
 	url = https://github.com/MinmusLin/Machine_Learning_Specialization_Practice_Labs
-[submodule "LaTeX_同济大学演示文稿模板"]
-	path = LaTeX_同济大学演示文稿模板
-	url = https://github.com/MinmusLin/Tongji_University_Beamer_Template
 [submodule "LaTeX_同济大学本科毕业设计理工类论文模板"]
 	path = LaTeX_同济大学本科毕业设计理工类论文模板
 	url = https://github.com/MinmusLin/Tongji_University_Undergraduate_Thesis_Template
