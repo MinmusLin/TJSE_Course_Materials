@@ -133,3 +133,6 @@
 [submodule "2024秋_软件工程课程设计_课程项目后端"]
 	path = 2024秋_软件工程课程设计_课程项目后端
 	url = https://github.com/Intelligent-Curtain-Wall/OssManagement_Backend
+[submodule "LaTeX_同济大学演示文稿模板"]
+	path = LaTeX_同济大学演示文稿模板
+	url = https://github.com/MinmusLin/Tongji_University_Beamer_Template
