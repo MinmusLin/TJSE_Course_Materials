@@ -18,7 +18,7 @@ A collection of course materials for Software Engineering in School of Computer 
 | 课号 Code | 学期 Semester | 课程 Course | 内容 Content |
 | :---: | :---: | :---: | :---: |
 | 50002810002<br>50002810003 | 2022 Fall<br>2023 Spring | 大学物理实验 (上)<br>大学物理实验 (下) | [实验报告](https://github.com/MinmusLin/University_Physics_Experiment_Reports) |
-| 50002440016<br>101080 | 2023 Spring<br>2023 Fall | 高级语言程序设计<br>面向对象程序设计 | [课程项目](https://github.com/MinmusLin/Advanced_Language_Programming_and_OOP_Course_Projects) |
+| 50002440016<br>101080 | 2023 Spring<br>2023 Fall | 高级语言程序设计<br>面向对象程序设计 | [课程项目](https://github.com/MinmusLin/High_Level_Language_Programming_and_OOP_Course_Projects) |
 | 420285 | 2023 Fall | 数据结构课程设计 | [课程项目](https://github.com/MinmusLin/Data_Structures_Course_Projects) |
 | 030566 | 2023 Fall | 数据量化推理 | [课程项目](https://github.com/MinmusLin/Quantitative_Reasoning_Course_Project) |
 | 420019 | 2023 Fall | 离散数学 | [课程作业](https://github.com/MinmusLin/Discrete_Mathematics_Course_Assignments) |
