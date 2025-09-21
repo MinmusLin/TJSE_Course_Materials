@@ -11,16 +11,12 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          submodules: false
+          submodules: 'recursive'
       - name: Update all submodules
         run: |
-          git submodule init
-          git submodule update --remote --no-recurse-submodules
-          if git diff-index --quiet HEAD --; then
-            echo "No submodule updates found"
-          else
-            git config --global user.name "github-actions[bot]"
-            git config --global user.email "github-actions[bot]@users.noreply.github.com"
-            git commit -am "Update all submodules"
-            git push
-          fi
+          git submodule update --init
+          git submodule foreach -q --recursive 'if [ "$(git rev-parse --show-superproject-working-tree)" ]; then git submodule update --remote --merge; fi'
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -am "Update all submodules"
+          git push
