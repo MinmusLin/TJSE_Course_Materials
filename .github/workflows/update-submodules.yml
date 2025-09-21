@@ -8,15 +8,38 @@ jobs:
     runs-on: ubuntu-latest
     name: Update Submodules
     steps:
-      - name: Checkout repository
+      - name: Checkout main repository only
         uses: actions/checkout@v4
         with:
-          submodules: 'recursive'
-      - name: Update all submodules
+          submodules: false
+          
+      - name: Setup Git
         run: |
-          git submodule update --init
-          git submodule foreach -q --recursive 'if [ "$(git rev-parse --show-superproject-working-tree)" ]; then git submodule update --remote --merge; fi'
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git commit -am "Update all submodules"
-          git push
+          
+      - name: Manual submodule update
+        run: |
+          # 手动处理每个子模块
+          submodules=$(git config --file .gitmodules --get-regexp path | awk '{print $2}')
+          for submodule in $submodules; do
+            echo "Processing submodule: $submodule"
+            if [ -d "$submodule" ]; then
+              cd "$submodule"
+              git checkout main
+              git pull origin main
+              cd ..
+            else
+              git submodule update --init "$submodule"
+            fi
+          done
+          
+      - name: Commit and push
+        run: |
+          if git diff --quiet; then
+            echo "No changes"
+          else
+            git add .
+            git commit -m "Update submodules"
+            git push
+          fi
