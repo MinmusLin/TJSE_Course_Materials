@@ -1,0 +1,21 @@
+name: Update Submodules
+
+on:
+  workflow_dispatch:
+
+jobs:
+  update-submodules:
+    runs-on: ubuntu-latest
+    name: Update Submodules
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          submodules: 'recursive'
+      - name: Update all submodules
+        run: |
+          git submodule update --remote --merge
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -am "Update all submodules"
+          git push
