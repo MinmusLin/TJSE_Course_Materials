@@ -13,6 +13,7 @@ on:
 jobs:
   add-submodule:
     runs-on: ubuntu-latest
+    name: Add Submodule
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
