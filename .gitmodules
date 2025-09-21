@@ -1,135 +1,136 @@
-[submodule "2024秋_物联网应用基础_课程作业"]
-	path = 2024秋_物联网应用基础_课程作业
-	url = https://github.com/MinmusLin/Fundamentals_of_IoT_Applications_Course_Assignments
-[submodule "2024秋_计算机视觉_课程作业"]
-	path = 2024秋_计算机视觉_课程作业
-	url = https://github.com/MinmusLin/Computer_Vision_Course_Assignments
-[submodule "2024秋_嵌入式系统导论_课程作业"]
-	path = 2024秋_嵌入式系统导论_课程作业
-	url = https://github.com/MinmusLin/Introduction_to_Embedded_Systems_Course_Assignments
-[submodule "2024秋_语音识别_课程作业"]
-	path = 2024秋_语音识别_课程作业
-	url = https://github.com/MinmusLin/Speech_Recognition_Course_Assignments
-[submodule "2024春_数据库课程设计_课程项目"]
-	path = 2024春_数据库课程设计_课程项目
-	url = https://github.com/MinmusLin/PetJoy
-[submodule "2024春_操作系统课程设计_课程项目"]
-	path = 2024春_操作系统课程设计_课程项目
-	url = https://github.com/MinmusLin/Minmus_Operating_System_in_Rust
-[submodule "2024春_操作系统_课程作业"]
-	path = 2024春_操作系统_课程作业
-	url = https://github.com/MinmusLin/Operating_System_Course_Assignments
-[submodule "2024春_大数据与人工智能_课程作业"]
-	path = 2024春_大数据与人工智能_课程作业
-	url = https://github.com/MinmusLin/Big_Data_and_Artificial_Intelligence_Course_Assignments
-[submodule "2024春_算法设计与分析_课程作业"]
-	path = 2024春_算法设计与分析_课程作业
-	url = https://github.com/MinmusLin/Analysis_and_Design_of_Algorithms_Course_Assignments
+[submodule "2022秋_2023春_大学物理实验_实验报告"]
+	path = 2022秋_2023春_大学物理实验_实验报告
+	url = https://github.com/MinmusLin/University_Physics_Experiment_Reports
+[submodule "2023春_高级语言程序设计_2023秋_面向对象程序设计_课程项目"]
+	path = 2023春_高级语言程序设计_2023秋_面向对象程序设计_课程项目
+	url = https://github.com/MinmusLin/High_Level_Language_Programming_and_OOP_Course_Projects
+[submodule "2023秋_数据结构课程设计_课程项目"]
+	path = 2023秋_数据结构课程设计_课程项目
+	url = https://github.com/MinmusLin/Data_Structures_Course_Projects
 [submodule "2023秋_数据量化推理_课程项目"]
 	path = 2023秋_数据量化推理_课程项目
 	url = https://github.com/MinmusLin/Quantitative_Reasoning_Course_Project
-[submodule "2024春_用户交互技术_课程作业"]
-	path = 2024春_用户交互技术_课程作业
-	url = https://github.com/MinmusLin/Human_Computer_Interface_Course_Assignments
-[submodule "2024春_计算机系统结构_研究学习"]
-	path = 2024春_计算机系统结构_研究学习
-	url = https://github.com/MinmusLin/Computer_Architecture_Research_Study
-[submodule "2024春_用户交互技术_课程项目"]
-	path = 2024春_用户交互技术_课程项目
-	url = https://github.com/MinmusLin/Story_Lingo_Kids
-[submodule "2024春_计算机网络实验_实验报告"]
-	path = 2024春_计算机网络实验_实验报告
-	url = https://github.com/MinmusLin/Computer_Network_Experiment_Reports
-[submodule "2024春_人工智能导论_课程作业"]
-	path = 2024春_人工智能导论_课程作业
-	url = https://github.com/MinmusLin/Introduction_to_Artificial_Intelligence_Course_Assignments
 [submodule "2023秋_离散数学_课程作业"]
 	path = 2023秋_离散数学_课程作业
 	url = https://github.com/MinmusLin/Discrete_Mathematics_Course_Assignments
 [submodule "2023秋_程序设计范式_课程作业"]
 	path = 2023秋_程序设计范式_课程作业
 	url = https://github.com/MinmusLin/Programming_Paradigms_Course_Assignments
+[submodule "2023秋_程序设计范式_课程项目"]
+	path = 2023秋_程序设计范式_课程项目
+	url = https://github.com/MinmusLin/Teamfight_Tactics
+	update = none
 [submodule "2023秋_计算机组成原理实验_实验报告"]
 	path = 2023秋_计算机组成原理实验_实验报告
 	url = https://github.com/MinmusLin/Computer_Organization_Experiment_Reports
+[submodule "2024春_人工智能导论_课程作业"]
+	path = 2024春_人工智能导论_课程作业
+	url = https://github.com/MinmusLin/Introduction_to_Artificial_Intelligence_Course_Assignments
+[submodule "2024春_大数据与人工智能_课程作业"]
+	path = 2024春_大数据与人工智能_课程作业
+	url = https://github.com/MinmusLin/Big_Data_and_Artificial_Intelligence_Course_Assignments
+[submodule "2024春_操作系统_课程作业"]
+	path = 2024春_操作系统_课程作业
+	url = https://github.com/MinmusLin/Operating_System_Course_Assignments
+[submodule "2024春_操作系统课程设计_课程项目"]
+	path = 2024春_操作系统课程设计_课程项目
+	url = https://github.com/MinmusLin/Minmus_Operating_System_in_Rust
+[submodule "2024春_数据库课程设计_课程项目"]
+	path = 2024春_数据库课程设计_课程项目
+	url = https://github.com/MinmusLin/PetJoy
+[submodule "2024春_用户交互技术_课程作业"]
+	path = 2024春_用户交互技术_课程作业
+	url = https://github.com/MinmusLin/Human_Computer_Interface_Course_Assignments
+[submodule "2024春_用户交互技术_课程项目"]
+	path = 2024春_用户交互技术_课程项目
+	url = https://github.com/MinmusLin/Story_Lingo_Kids
+[submodule "2024春_算法设计与分析_课程作业"]
+	path = 2024春_算法设计与分析_课程作业
+	url = https://github.com/MinmusLin/Analysis_and_Design_of_Algorithms_Course_Assignments
+[submodule "2024春_计算机系统结构_研究学习"]
+	path = 2024春_计算机系统结构_研究学习
+	url = https://github.com/MinmusLin/Computer_Architecture_Research_Study
+[submodule "2024春_计算机网络实验_实验报告"]
+	path = 2024春_计算机网络实验_实验报告
+	url = https://github.com/MinmusLin/Computer_Network_Experiment_Reports
 [submodule "2024秋_区块链导论_课程作业"]
 	path = 2024秋_区块链导论_课程作业
 	url = https://github.com/MinmusLin/Introduction_to_Blockchain
 [submodule "2024秋_区块链导论_课程项目"]
 	path = 2024秋_区块链导论_课程项目
 	url = https://github.com/MinmusLin/Miel_Link
-[submodule "2024秋_语音识别_课程项目"]
-	path = 2024秋_语音识别_课程项目
-	url = https://github.com/MinmusLin/Meeting_Minutes_Assistant
+[submodule "2024秋_嵌入式系统导论_课程作业"]
+	path = 2024秋_嵌入式系统导论_课程作业
+	url = https://github.com/MinmusLin/Introduction_to_Embedded_Systems_Course_Assignments
+[submodule "2024秋_汇编语言_课程作业"]
+	path = 2024秋_汇编语言_课程作业
+	url = https://github.com/MinmusLin/Assembly_Language_Course_Assignments
+[submodule "2024秋_物联网应用基础_课程作业"]
+	path = 2024秋_物联网应用基础_课程作业
+	url = https://github.com/MinmusLin/Fundamentals_of_IoT_Applications_Course_Assignments
 [submodule "2024秋_物联网应用基础_课程项目"]
 	path = 2024秋_物联网应用基础_课程项目
 	url = https://github.com/MinmusLin/Regional_THP_Data_Publishing_Subscription_and_Analysis_System
-[submodule "2024秋_计算机视觉_课程项目"]
-	path = 2024秋_计算机视觉_课程项目
-	url = https://github.com/MinmusLin/Speedbump_Detection_and_Distance_Measurement
-[submodule "2023秋_数据结构课程设计_课程项目"]
-	path = 2023秋_数据结构课程设计_课程项目
-	url = https://github.com/MinmusLin/Data_Structures_Course_Projects
-[submodule "2024秋_软件设计模式_课程作业"]
-	path = 2024秋_软件设计模式_课程作业
-	url = https://github.com/MinmusLin/Software_Design_Patterns_Course_Assignments
 [submodule "2024秋_移动应用开发_课程作业"]
 	path = 2024秋_移动应用开发_课程作业
 	url = https://github.com/MinmusLin/Mobile_Application_Development_Course_Assignments
 [submodule "2024秋_移动应用开发_课程项目"]
 	path = 2024秋_移动应用开发_课程项目
 	url = https://github.com/Tongji-Software-2024/Atlas.Y_iOS_Application
-[submodule "2025春_机器学习_吴恩达机器学习专项课程"]
-	path = 2025春_机器学习_吴恩达机器学习专项课程
-	url = https://github.com/MinmusLin/Machine_Learning_Specialization_Practice_Labs
-[submodule "LaTeX_同济大学本科毕业设计理工类论文模板"]
-	path = LaTeX_同济大学本科毕业设计理工类论文模板
-	url = https://github.com/MinmusLin/Tongji_University_Undergraduate_Thesis_Template
-[submodule "2025春_软件测试_课程项目"]
-	path = 2025春_软件测试_课程项目
-	url = https://github.com/MinmusLin/Tongji_ICW_Dataset_Management_Platform_Test_Application
+[submodule "2024秋_计算机视觉_课程作业"]
+	path = 2024秋_计算机视觉_课程作业
+	url = https://github.com/MinmusLin/Computer_Vision_Course_Assignments
+[submodule "2024秋_计算机视觉_课程项目"]
+	path = 2024秋_计算机视觉_课程项目
+	url = https://github.com/MinmusLin/Speedbump_Detection_and_Distance_Measurement
+[submodule "2024秋_语音识别_课程作业"]
+	path = 2024秋_语音识别_课程作业
+	url = https://github.com/MinmusLin/Speech_Recognition_Course_Assignments
+[submodule "2024秋_语音识别_课程项目"]
+	path = 2024秋_语音识别_课程项目
+	url = https://github.com/MinmusLin/Meeting_Minutes_Assistant
 [submodule "2024秋_软件工程_课程作业"]
 	path = 2024秋_软件工程_课程作业
 	url = https://github.com/MinmusLin/Software_Engineering_Course_Assignments
-[submodule "2025春_软件工程管理与经济_课程作业"]
-	path = 2025春_软件工程管理与经济_课程作业
-	url = https://github.com/MinmusLin/Software_Engineering_Management_and_Economics_Course_Assignments
-[submodule "2025春_群体智能_课程作业"]
-	path = 2025春_群体智能_课程作业
-	url = https://github.com/MinmusLin/Swarm_Intelligence_Course_Assignments
-[submodule "2025春_群体智能_课程项目"]
-	path = 2025春_群体智能_课程项目
-	url = https://github.com/MinmusLin/Reinforcement_Learning_Based_Multi_Agent_Path_Finding
-[submodule "2025春_机器学习_课程作业"]
-	path = 2025春_机器学习_课程作业
-	url = https://github.com/MinmusLin/Machine_Learning_Course_Assignments
-[submodule "2025春_专业方向综合项目_课程作业"]
-	path = 2025春_专业方向综合项目_课程作业
-	url = https://github.com/MinmusLin/Diagnosis_of_Diabetic_Retinopathy
-[submodule "2025春_SLAM理论与系统_课程项目"]
-	path = 2025春_SLAM理论与系统_课程项目
-	url = https://github.com/MinmusLin/SLAM_Theory_and_Systems_Course_Project
-[submodule "2023春_高级语言程序设计_2023秋_面向对象程序设计_课程项目"]
-	path = 2023春_高级语言程序设计_2023秋_面向对象程序设计_课程项目
-	url = https://github.com/MinmusLin/High_Level_Language_Programming_and_OOP_Course_Projects
-[submodule "2024秋_汇编语言_课程作业"]
-	path = 2024秋_汇编语言_课程作业
-	url = https://github.com/MinmusLin/Assembly_Language_Course_Assignments
-[submodule "2023秋_程序设计范式_课程项目"]
-	path = 2023秋_程序设计范式_课程项目
-	url = https://github.com/MinmusLin/Teamfight_Tactics
 [submodule "2024秋_软件工程课程设计_课程项目前端"]
 	path = 2024秋_软件工程课程设计_课程项目前端
 	url = https://github.com/Intelligent-Curtain-Wall/OssManagement_Frontend
 [submodule "2024秋_软件工程课程设计_课程项目后端"]
 	path = 2024秋_软件工程课程设计_课程项目后端
 	url = https://github.com/Intelligent-Curtain-Wall/OssManagement_Backend
-[submodule "LaTeX_同济大学演示文稿模板"]
-	path = LaTeX_同济大学演示文稿模板
-	url = https://github.com/MinmusLin/Tongji_University_Beamer_Template
-[submodule "2022秋_2023春_大学物理实验_实验报告"]
-	path = 2022秋_2023春_大学物理实验_实验报告
-	url = https://github.com/MinmusLin/University_Physics_Experiment_Reports
+[submodule "2024秋_软件设计模式_课程作业"]
+	path = 2024秋_软件设计模式_课程作业
+	url = https://github.com/MinmusLin/Software_Design_Patterns_Course_Assignments
+[submodule "2025春_SLAM理论与系统_课程项目"]
+	path = 2025春_SLAM理论与系统_课程项目
+	url = https://github.com/MinmusLin/SLAM_Theory_and_Systems_Course_Project
+[submodule "2025春_专业方向综合项目_课程作业"]
+	path = 2025春_专业方向综合项目_课程作业
+	url = https://github.com/MinmusLin/Diagnosis_of_Diabetic_Retinopathy
 [submodule "2025春_专业方向综合项目_课程项目"]
 	path = 2025春_专业方向综合项目_课程项目
 	url = https://github.com/MinmusLin/DiabRetina_AI
+[submodule "2025春_机器学习_吴恩达机器学习专项课程"]
+	path = 2025春_机器学习_吴恩达机器学习专项课程
+	url = https://github.com/MinmusLin/Machine_Learning_Specialization_Practice_Labs
+[submodule "2025春_机器学习_课程作业"]
+	path = 2025春_机器学习_课程作业
+	url = https://github.com/MinmusLin/Machine_Learning_Course_Assignments
+[submodule "2025春_群体智能_课程作业"]
+	path = 2025春_群体智能_课程作业
+	url = https://github.com/MinmusLin/Swarm_Intelligence_Course_Assignments
+[submodule "2025春_群体智能_课程项目"]
+	path = 2025春_群体智能_课程项目
+	url = https://github.com/MinmusLin/Reinforcement_Learning_Based_Multi_Agent_Path_Finding
+[submodule "2025春_软件工程管理与经济_课程作业"]
+	path = 2025春_软件工程管理与经济_课程作业
+	url = https://github.com/MinmusLin/Software_Engineering_Management_and_Economics_Course_Assignments
+[submodule "2025春_软件测试_课程项目"]
+	path = 2025春_软件测试_课程项目
+	url = https://github.com/MinmusLin/Tongji_ICW_Dataset_Management_Platform_Test_Application
+[submodule "LaTeX_同济大学本科毕业设计理工类论文模板"]
+	path = LaTeX_同济大学本科毕业设计理工类论文模板
+	url = https://github.com/MinmusLin/Tongji_University_Undergraduate_Thesis_Template
+[submodule "LaTeX_同济大学演示文稿模板"]
+	path = LaTeX_同济大学演示文稿模板
+	url = https://github.com/MinmusLin/Tongji_University_Beamer_Template
