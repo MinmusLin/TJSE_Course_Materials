@@ -16,6 +16,9 @@
 [submodule "2023秋_程序设计范式_课程作业"]
 	path = 2023秋_程序设计范式_课程作业
 	url = https://github.com/MinmusLin/Programming_Paradigms_Course_Assignments
+[submodule "2023秋_程序设计范式_课程项目"]
+	path = 2023秋_程序设计范式_课程项目
+	url = https://github.com/MinmusLin/Teamfight_Tactics
 [submodule "2023秋_计算机组成原理实验_实验报告"]
 	path = 2023秋_计算机组成原理实验_实验报告
 	url = https://github.com/MinmusLin/Computer_Organization_Experiment_Reports
@@ -130,6 +133,3 @@
 [submodule "LaTeX_同济大学演示文稿模板"]
 	path = LaTeX_同济大学演示文稿模板
 	url = https://github.com/MinmusLin/Tongji_University_Beamer_Template
-[submodule "2023秋_程序设计范式_课程项目"]
-	path = 2023秋_程序设计范式_课程项目
-	url = https://github.com/MinmusLin/Teamfight_Tactics
