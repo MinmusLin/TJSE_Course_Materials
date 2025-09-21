@@ -10,6 +10,7 @@ on:
 jobs:
   remove-submodule:
     runs-on: ubuntu-latest
+    name: Remove Submodule
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
