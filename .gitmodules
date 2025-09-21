@@ -130,3 +130,6 @@
 [submodule "LaTeX_同济大学演示文稿模板"]
 	path = LaTeX_同济大学演示文稿模板
 	url = https://github.com/MinmusLin/Tongji_University_Beamer_Template
+[submodule "2023秋_程序设计范式_课程项目"]
+	path = 2023秋_程序设计范式_课程项目
+	url = https://github.com/MinmusLin/Teamfight_Tactics
