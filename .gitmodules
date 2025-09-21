@@ -130,3 +130,6 @@
 [submodule "2022秋_2023春_大学物理实验_实验报告"]
 	path = 2022秋_2023春_大学物理实验_实验报告
 	url = https://github.com/MinmusLin/University_Physics_Experiment_Reports
+[submodule "2025春_专业方向综合项目_课程项目"]
+	path = 2025春_专业方向综合项目_课程项目
+	url = https://github.com/MinmusLin/DiabRetina_AI
