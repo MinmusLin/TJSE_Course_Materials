@@ -37,7 +37,7 @@ A collection of course materials for Software Engineering in School of Computer 
 | 420156 | 2024 Fall | 嵌入式系统导论 | [课程作业](https://github.com/MinmusLin/Introduction_to_Embedded_Systems_Course_Assignments) |
 | 420268 | 2024 Fall | 汇编语言 | [课程作业](https://github.com/MinmusLin/Assembly_Language_Course_Assignments) |
 | 420375 | 2024 Fall | 物联网应用基础 | [课程作业](https://github.com/MinmusLin/Fundamentals_of_IoT_Applications_Course_Assignments)、[课程项目](https://github.com/MinmusLin/Regional_THP_Data_Publishing_Subscription_and_Analysis_System) |
-| 420401 | 2024 Fall | 移动应用开发 | [课程作业](https://github.com/MinmusLin/Mobile_Application_Development_Course_Assignments)、[课程项目](https://github.com/Tongji-Software-2024/Atlas.Y_iOS_Application) |
+| 420401 | 2024 Fall | 移动应用开发 | [课程作业](https://github.com/MinmusLin/Mobile_Application_Development_Course_Assignments)、[课程项目](https://github.com/MinmusLin/Atlas.Y_iOS_Application) |
 | 420294 | 2024 Fall | 计算机视觉 | [课程作业](https://github.com/MinmusLin/Computer_Vision_Course_Assignments)、[课程项目](https://github.com/MinmusLin/Speedbump_Detection_and_Distance_Measurement) |
 | 420395 | 2024 Fall | 语音识别 | [课程作业](https://github.com/MinmusLin/Speech_Recognition_Course_Assignments)、[课程项目](https://github.com/MinmusLin/Meeting_Minutes_Assistant) |
 | 420342 | 2024 Fall | 软件工程 | [课程作业](https://github.com/MinmusLin/Software_Engineering_Course_Assignments) |
