@@ -118,9 +118,6 @@
 [submodule "2025春_软件工程管理与经济_课程作业"]
 	path = 2025春_软件工程管理与经济_课程作业
 	url = https://github.com/MinmusLin/Software_Engineering_Management_and_Economics_Course_Assignments
-[submodule "2025春_软件测试_课程项目"]
-	path = 2025春_软件测试_课程项目
-	url = https://github.com/MinmusLin/Tongji_ICW_Dataset_Management_Platform_Test_Application
 [submodule "LaTeX_同济大学本科毕业设计理工类论文模板"]
 	path = LaTeX_同济大学本科毕业设计理工类论文模板
 	url = https://github.com/MinmusLin/Tongji_University_Undergraduate_Thesis_Template
