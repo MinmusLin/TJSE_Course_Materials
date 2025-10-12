@@ -91,6 +91,9 @@
 [submodule "2024秋_软件工程_课程作业"]
 	path = 2024秋_软件工程_课程作业
 	url = https://github.com/MinmusLin/Software_Engineering_Course_Assignments
+[submodule "2024秋_软件工程课程设计_课程项目"]
+	path = 2024秋_软件工程课程设计_课程项目
+	url = https://github.com/MinmusLin/Tongji_ICW_Dataset_Management_Platform
 [submodule "2024秋_软件设计模式_课程作业"]
 	path = 2024秋_软件设计模式_课程作业
 	url = https://github.com/MinmusLin/Software_Design_Patterns_Course_Assignments
@@ -124,6 +127,3 @@
 [submodule "LaTeX_同济大学演示文稿模板"]
 	path = LaTeX_同济大学演示文稿模板
 	url = https://github.com/MinmusLin/Tongji_University_Beamer_Template
-[submodule "2024秋_软件工程课程设计_课程项目"]
-	path = 2024秋_软件工程课程设计_课程项目
-	url = https://github.com/MinmusLin/Tongji_ICW_Dataset_Management_Platform
