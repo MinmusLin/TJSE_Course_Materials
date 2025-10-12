@@ -91,9 +91,6 @@
 [submodule "2024秋_软件工程_课程作业"]
 	path = 2024秋_软件工程_课程作业
 	url = https://github.com/MinmusLin/Software_Engineering_Course_Assignments
-[submodule "2024秋_软件工程课程设计_课程项目后端"]
-	path = 2024秋_软件工程课程设计_课程项目后端
-	url = https://github.com/Intelligent-Curtain-Wall/OssManagement_Backend
 [submodule "2024秋_软件设计模式_课程作业"]
 	path = 2024秋_软件设计模式_课程作业
 	url = https://github.com/MinmusLin/Software_Design_Patterns_Course_Assignments
