@@ -124,3 +124,6 @@
 [submodule "LaTeX_同济大学演示文稿模板"]
 	path = LaTeX_同济大学演示文稿模板
 	url = https://github.com/MinmusLin/Tongji_University_Beamer_Template
+[submodule "2024秋_软件工程课程设计_课程项目"]
+	path = 2024秋_软件工程课程设计_课程项目
+	url = https://github.com/MinmusLin/Tongji_ICW_Dataset_Management_Platform
