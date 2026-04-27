@@ -49,11 +49,6 @@ A collection of course materials for Software Engineering in School of Computer 
 | 50002870004 | 2025 Spring | 群体智能 | [课程作业](https://github.com/MinmusLin/Swarm_Intelligence_Course_Assignments)、[课程项目](https://github.com/MinmusLin/Reinforcement_Learning_Based_Multi_Agent_Path_Finding) |
 | 420413 | 2025 Spring | 软件工程管理与经济 | [课程作业](https://github.com/MinmusLin/Software_Engineering_Management_and_Economics_Course_Assignments) |
 
-## 📑 LaTeX 模板 | LaTeX Template
-
-* [同济大学本科毕业设计理工类论文模板](https://github.com/MinmusLin/Tongji_University_Undergraduate_Thesis_Template)
-* [同济大学演示文稿模板](https://github.com/MinmusLin/Tongji_University_Beamer_Template)
-
 ## 📬 联系我 | Contact Me
 
 Email: minmuslin@outlook.com
